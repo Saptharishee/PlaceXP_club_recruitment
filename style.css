@@ -1,0 +1,70 @@
+.nav
+{
+    background-color:#d8d9f5;
+color: #2b252c;
+font-size: 24px;
+}
+body
+{
+    
+}
+.wel
+{
+padding: 5% 10%;
+text-align : center ;
+background-color: #ebeafd ;
+}
+.btn1
+{
+    /* margin:0% 1%; */
+    width: 25%;
+    padding: 14px 28px;
+    font-size: 25px;
+}
+.featu
+{
+
+text-align : center ;
+}
+.cohead
+{
+    
+    font-size: 60px;
+    font-family: 'Montserrat', sans-serif;
+    font-style:normal;
+    /* font-weight: 100; */
+    /* font-display: swap;
+    src: url(https://fonts.gstatic.com/s/montserrat/v18/JTUSjIg1_i6t8kCHKm459W1hyzbi.woff2) format('woff2'); */
+}
+#welhead
+{
+    /* font-weight: 0; */
+
+}
+.desc
+{
+    /* font-family: 'Open Sans Condensed', sans-serif; */
+    font-family: 'Segoe UI', sans-serif;
+    font-size: 25px;
+    line-height: 2;
+    font-weight: 100;
+}
+footer
+{
+    background-color: #2b252c;
+    color: white;
+}
+li
+{
+display: inline-block;
+}
+@media only screen and (max-width:768px)
+{
+    .cohead,.desc
+    {
+        text-align: center;
+        display: block;
+    }
+    
+        
+}
